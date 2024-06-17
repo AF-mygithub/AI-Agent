@@ -17,7 +17,7 @@ The primary goal of this project is to leverage advanced AI technologies to enha
 
 ## Techniques and Technologies
 
-Models and techniques used include Mixtral-8x 7b for image description, Faster R-CNN for object detection, Hugging Face Transformers, BlipProcessor, BlipForConditionalGeneration, DetrImageProcessor, and DetrForObjectDetection. The project integrates AI endpoints like ChatNVIDIA and leverages the COCO dataset. Frameworks and tools utilized are LangChain, OpenCV, TensorFlow, PyTorch, PIL, torchvision, and Gradio. Additional utilities include torch, requests, and base64.
+Models and techniques used include Mixtral-8x 7b for image description, Faster R-CNN for object detection, Hugging Face Transformers, BlipProcessor, BlipForConditionalGeneration, DetrImageProcessor, and DetrForObjectDetection. The project integrates AI endpoints like ChatNVIDIA and leverages the COCO dataset. Frameworks and tools utilized are LangChain, OpenCV, TensorFlow, PyTorch, PIL, Torchvision, and Gradio. Additional utilities include torch, requests, and base64.
 
 ## Use Cases and Business Impact
 
