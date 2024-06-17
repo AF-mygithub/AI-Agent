@@ -4,12 +4,6 @@
 Project Overview
 This project showcases the integration of image description and object detection capabilities. The notebook combines Large Language Model (mixtral-8x 7b) with Computer Vision Model (Faster R-CNN) to generate detailed descriptoin of uploaded images, identifying and describing objects within these images.
 
-## Table of Contents
-
-* [Introduction](#introduction)
-* [Features](#features)
-* [Acknowledgements](#acknowledgements)
-
 ## Introduction
 
 The primary goal of this project is to leverage NVIDIA's state-of-the-art technologies to enhance image understanding through a synergistic approach. By integrating image description and object detection, the project aims to provide a comprehensive solution for various applications, including automated content generation, enhanced accessibility, and intelligent image search.
