@@ -1,5 +1,5 @@
 # AI-Agent
-# NVIDA AI Agent Developer Contest: Integration of Image Description and Object Detection
+# AI Agent - Integration of Image Description and Object Detection
 
 ## Project Overview
 
