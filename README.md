@@ -1,4 +1,3 @@
-# AI-Agent
 # AI Agent - Integration of Image Description and Object Detection
 
 ## Project Overview
