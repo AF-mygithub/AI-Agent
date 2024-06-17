@@ -1,18 +1,32 @@
 # AI-Agent
 # NVIDA AI Agent Developer Contest: Integration of Image Description and Object Detection
 
-Project Overview
-This project showcases the integration of image description and object detection capabilities. The notebook combines Large Language Model (mixtral-8x 7b) with Computer Vision Model (Faster R-CNN) to generate detailed descriptoin of uploaded images, identifying and describing objects within these images.
+## Project Overview
+
+The "AI Agent - Integration of Image Description and Object Detection" project exemplifies cutting-edge AI innovation. Combining NLP/LLM and Computer Vision, it generates intricate image descriptions and accurately detects and labels objects within uploaded images. The project employs the Mixtral-8x 7b model for image description and Faster R-CNN for object detection. The Hugging Face Transformers library powers the generation of descriptions. Built with TensorFlow, PyTorch, and OpenCV in Google Colab, this project ensures high performance, flexibility, and reproducibility.
 
 ## Introduction
 
-The primary goal of this project is to leverage NVIDIA's state-of-the-art technologies to enhance image understanding through a synergistic approach. By integrating image description and object detection, the project aims to provide a comprehensive solution for various applications, including automated content generation, enhanced accessibility, and intelligent image search.
+The primary goal of this project is to leverage advanced AI technologies to enhance image understanding through a synergistic approach. By integrating image description and object detection, the project aims to provide a comprehensive solution for various applications, including automated content generation, enhanced accessibility, and intelligent image search.
 
 ## Features
 
 - **Image Description**: Generates detailed textual descriptions of images using Large Language Model: Mixtral-8x 7b.
 - **Object Detection**: Identifies and labels objects within images using Computer Vision model: Faster R-CNN.
-- **Integration**: Combines both functionalities to produce detailed descriptions and  object detections.
+- **Integration**:  Combines both functionalities to produce detailed descriptions and object detections.
+
+## Techniques and Technologies
+
+Models and techniques used include Mixtral-8x 7b for image description, Faster R-CNN for object detection, Hugging Face Transformers, BlipProcessor, BlipForConditionalGeneration, DetrImageProcessor, and DetrForObjectDetection. The project integrates AI endpoints like ChatNVIDIA and leverages the COCO dataset. Frameworks and tools utilized are TensorFlow, PyTorch, OpenCV, PIL, torchvision, Gradio, and LangChain (BaseTool, ConversationBufferWindowMemory). Additional utilities include torch, requests, and base64.
+
+## Use Cases and Business Impact
+
+Automated Content Creation: Enhances productivity and engagement on digital media and e-commerce platforms.
+Enhanced Accessibility: Provides visually impaired users with rich descriptions of visual content.
+Intelligent Image Search: Improves accuracy and context-awareness in image search.
+Military Applications: Enhances the accuracy and speed of target identification and situational awareness.
+Self-Driving Cars: Improves object detection and scene understanding, increasing safety and reliability in autonomous navigation systems.
 
 ## Acknowledgements
+
 This project is developed as part of the NVIDIA AI Agent Developer Contest. Special thanks to NVIDIA for providing the tools and platform to make this project possible.
