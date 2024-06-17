@@ -8,10 +8,6 @@ This project showcases the integration of image description and object detection
 
 * [Introduction](#introduction)
 * [Features](#features)
-* [Installation](#installation)
-* [Usage](#usage)
-* [Contributing](#contributing)
-* [License](#license)
 * [Acknowledgements](#acknowledgements)
 
 ## Introduction
