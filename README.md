@@ -21,7 +21,7 @@ Models and techniques used include Mixtral-8x 7b for image description, Faster R
 
 ## Use Cases and Business Impact
 
-- **Military Applications**: Enhances the accuracy and speed of target identification and situational awareness.
+- **Military**: Enhances the accuracy and speed of target identification and situational awareness.
 - **Self-Driving Cars**: Improves object detection and scene understanding, increasing safety and reliability in autonomous navigation systems.
 - **Automated Content Creation**: Enhances productivity and engagement on digital media and e-commerce platforms.
 - **Enhanced Accessibility**: Provides visually impaired users with rich descriptions of visual content.
